@@ -1,0 +1,9 @@
+git init -> Inicializamos el proyecto
+git add . -> Para agregar nuestros programar al branch
+git commit -m "<description>" -> Para tomarle una foto a nuestro cambio
+git checkout -- . -> Por si hubo una eliminación de un archivo o algo, este comando regresa todo a como estaba.
+
+
+OJO: A los node_modules nunca se le hace un backUp ni tampoco al
+producto de algun comando que se puede hacer reconstruirlo
+manualmente.
